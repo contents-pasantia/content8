@@ -2,14 +2,9 @@
 # Lecturas previas.
 - Que es Json? [enlace](./Resources/JSON.md)
 - Servicios web [enlace](./Resources/serviciosWeb.md)
-- Enlace de presentacion. [enalce]()
+- Enlace de presentacion. [enalce](https://contents-pasantia.github.io/content3/slides/introduccionDevBackend.html)
 ## Actividades 
-1. 
-2. Bit y Bytes [enlace](./Resources/Bit_y_Bytes.md)
 
 
 
-
-# Curso Javascrip esencial
-
-# content3
+# Curso Javascrip fundamentos (curso)
